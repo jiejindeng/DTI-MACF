@@ -22,7 +22,7 @@
 - batch_size: batch size for training
 
 ## Data Description
-Datasets are available in ['datasets/'](datasets/)
+Datasets are available in [`datasets/`](datasets/)
 
 The preprocess file is [`preprocess.py`](preprocess.py)
 
