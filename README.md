@@ -21,7 +21,7 @@
 - droprate: dropout rate
 - batch_size: batch size for training
 
-## Data Description
+## Data Process
 Datasets are available in [`datasets/`](datasets/)
 
 The raw data is processed into bipartite graph through [`preprocess.py`](preprocess.py) as input data
@@ -31,6 +31,7 @@ python preprocess.py
 
 
 ## Basic Usage
+Both training and testing procedures can be achived by the script[`train.py`](train.py)
 ~~~
 python run.py 
 ~~~
