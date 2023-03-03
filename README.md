@@ -31,7 +31,7 @@ python preprocess.py
 
 
 ## Basic Usage
-Both training and testing procedures can be achived by the script[`train.py`](train.py)
+Both training and testing procedures can be achived by the script[`run.py`](run.py)
 ~~~
 python run.py 
 ~~~
