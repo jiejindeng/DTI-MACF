@@ -24,7 +24,11 @@
 ## Data Description
 Datasets are available in [`datasets/`](datasets/)
 
-The preprocess file is [`preprocess.py`](preprocess.py)
+The raw data is processed into bipartite graph through [`preprocess.py`] as input data
+~~~
+python preprocess.py.py 
+~~~
+
 
 ## Basic Usage
 ~~~
