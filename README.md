@@ -24,9 +24,9 @@
 ## Data Description
 Datasets are available in [`datasets/`](datasets/)
 
-The raw data is processed into bipartite graph through [`preprocess.py`] as input data
+The raw data is processed into bipartite graph through [`preprocess.py`](preprocess.py) as input data
 ~~~
-python preprocess.py.py 
+python preprocess.py
 ~~~
 
 
